@@ -29,5 +29,9 @@ public class Puppy {
     public String getName() {
         return name;
     }
+    public int doubleage() {
+
+        return age+=2;
+    }
 
 }
